@@ -1,0 +1,5 @@
+node_modules/
+mybuttonproject.api/node_modules/
+mybuttonproject.web/node_modules/
+Dockerfile
+.dockerignore
